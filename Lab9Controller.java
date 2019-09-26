@@ -1,4 +1,4 @@
-package yangh;
+package gersona;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
